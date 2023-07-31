@@ -1,0 +1,8 @@
+  {
+    "plugins": [
+      "@tanstack/query"
+    ],
+    "extends": [
+      "plugin:@tanstack/query/recommended"
+    ]
+  }
